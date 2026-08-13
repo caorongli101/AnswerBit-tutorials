@@ -3,7 +3,7 @@
 > 核心结论：SEO 团队不需要被替代；它可以提供搜索需求、页面和技术基础，AnswerBit 则补充 AI 回答监控、提问资产、引用分析与效果验证。
 
 <!-- VISUAL:23-A -->
-![SEO 团队与 AnswerBit 的协作分工信息图](assets/23/23_01_核心框架.png)
+![SEO 团队与 AnswerBit 的协作分工信息图](./img/23_01_核心框架.png)
 *图 1：产品营销、SEO、GEO、内容公关和数据团队应围绕同一事实资产协作。*
 <!-- /VISUAL:23-A -->
 
@@ -43,7 +43,7 @@ SEO 看排名、点击、自然流量和转化；GEO 看提及、推荐排序、
 
 
 <!-- VISUAL:23-B -->
-![统一事实，多入口输出信息图](assets/23/23_02_方法详解.png)
+![统一事实，多入口输出信息图](./img/23_02_方法详解.png)
 *图 2：权威母稿可分别支持 SEO 页面、AEO FAQ 和 GEO 子稿，再联合复盘。*
 <!-- /VISUAL:23-B -->
 
@@ -63,4 +63,5 @@ SEO 管理传统搜索入口，AnswerBit 帮助管理 AI 答案入口；统一�
 
 ---
 
-资料依据：《AnswerBit 产品白皮书 v1.1》《腾讯 AnswerBit（GEO）产品介绍》《赢在“答案”时代：GEO/AEO 全链路内容优化实操手册》；更新日期：2026-07-27。
+> **系列导航**：[← 上一篇：已有 SEO 团队如何引入 AnswerBit？](./23_已有SEO团队如何引入AnswerBit_GEO协作机制.md) · [返回目录](./README.md) · [下一篇：B2B/SaaS 企业如何用 AnswerBit 做 GEO？ →](./25_B2B_SaaS企业如何用AnswerBit做GEO.md)
+
